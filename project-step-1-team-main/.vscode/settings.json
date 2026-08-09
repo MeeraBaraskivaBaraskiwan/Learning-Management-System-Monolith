@@ -1,0 +1,20 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+   "java.annotationProcessing.enabled": true,
+  "java.project.importOnChanges.enabled": true,
+  "java.settings.url": "",
+  "java.referencesCodeLens.enabled": true,
+  "java.format.settings.url": "",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.maven.userSettings": "",
+  "java.project.referencedLibraries": [
+    "libs/**/*.jar"
+  ],
+  "java.completion.importOrder": [
+    "java",
+    "javax",
+    "com",
+    "org"
+  ],
+  
+}
